@@ -13,13 +13,13 @@ safe: true
 # edit here to achieve your personal greatness
 url: http://username.github.io/
 baseurl: /sustain/
-title: Chris Turner
-author: Chris Turner
-description: Personal blog and resume
+title: Tara Chowdhury
+author: Tara Chowdhury
+description: Best website ever.
 avatar: profile.png
 email: yourname@email.com
-github: biomadeira/sustain # username
-twitter: username
+github: taragunkali/sustain # username
+twitter: daaderside
 linkedin: username
 stackoverflow: username   #e.g: users/2735833/proton1h1
 #Comment out if you don't want disqus 
